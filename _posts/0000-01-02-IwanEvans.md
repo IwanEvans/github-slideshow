@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Iwan's slide!"
 ---
-:partying_face:
+Github is cool!
 Use the left arrow to go back!
